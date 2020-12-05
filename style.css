@@ -1,0 +1,51 @@
+.header{
+	min-height: 100px;
+	background-color: red;
+}
+
+.wrapper{
+	overflow: hidden;
+	/*border: 10px solid teal;*/
+	
+}
+/*.blog{
+float: left;
+width: 70%;
+min-height: 150px;
+background-color: green;
+}
+.contact{
+	float: right;
+	width: 30%;
+	min-height: 150px;
+	background-color: blue;
+}*/
+
+.single{
+	min-height: 150px;
+	/*border: 5px solid blue;*/
+	width: 33.3%;
+	float: left;
+
+}
+.yellow{
+	background-color: yellow;
+}
+.blue{
+	background-color: blue;
+}
+.teal{
+	background-color: teal;
+}	
+
+
+.footer{
+	min-height: 100px;
+	background-color: black;
+	
+}
+
+
+
+
+
